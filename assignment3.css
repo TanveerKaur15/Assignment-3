@@ -1,0 +1,262 @@
+body{
+    background-color: #efefef
+}
+.img
+{
+    background-image: url('img/doctor.jpg');
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    width:100%;
+    filter:blur(4px) ;
+    height: 500px;
+}
+.navbar
+{
+    background-color:white;
+}
+.navbar li{
+    font-weight: bold;
+    float:left;
+    list-style: none;
+    padding: 3px 10px;
+    margin: 13px 0px;
+}
+.logo img{
+     float:right;
+     padding: 0px 0px;
+    margin-top: -6px;
+    display: inline;
+}
+.logo{
+    width:100%;
+    float:left;
+    display: inline;
+}
+.logo li
+{
+    margin-top: 16px;
+    display: inline;
+    float:right;
+    padding:3px 10px;
+    margin:13px 0px;
+    font-weight: bold;
+    color:#66CDAA;
+}
+.submit-button
+{
+    float:left;
+    padding: 3px 3px;
+    margin: 13px 0px;
+}
+.submit-button input{
+    background:#66CDAA;
+    border:white;
+    color:white;
+}
+.heading
+{
+    width:100%;
+    float:left;
+    text-align: center;
+    color:white;
+    font-size:xx-large;
+    margin-top: 60px;
+    padding: 13px 52px;
+    letter-spacing: 3.5px;
+    position: relative;
+}
+.sub-heading
+{
+    width:100%;
+    float:left;
+    text-align: center;
+    color: white;
+    font-size:medium;
+}
+.sec-button
+{
+    margin-top: 300px;
+}
+.sec-button input
+{
+    padding:5px 5px;
+    margin:10px 0px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.quote
+{
+    width:100%;
+    float:left;
+    color: white;
+    font-size:x-large;
+    margin-top:250px;
+}
+.table
+{
+    background-color: tomato;
+}
+.features
+{
+    width:100%;
+    float:left;
+    color:black;
+    font-size: xx-large;
+    margin-top:200px;
+    text-align: center;
+}
+.line
+{
+    width:100%;
+    float:left;
+    color:black;
+    font-size:large;
+    text-align: center;
+}
+.tech
+{
+  background-color:white;
+  width: 250px;
+  border-bottom: 2px solid grey; ;
+  padding: -24px 20px;
+  margin: 20px;
+}
+.tech img
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.text1{
+    font-size:large;
+    font-weight: bold;
+    text-align: center;
+}
+.sub-text1
+{
+    font-size: medium;
+    text-align: center;
+}
+.doctors
+{
+    background-color:white;
+    width: 250px;
+    border-bottom: 2px solid grey; ;
+    padding: -24px 20px;
+    margin: 20px;
+  }
+  .text2{
+    font-size:large;
+    font-weight: bold;
+    text-align: center;
+}
+.sub-text2
+{
+    font-size: medium;
+    text-align: center;
+}
+.doctors img
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.customer
+{
+    background-color:white;
+    width: 250px;
+    border-bottom: 2px solid grey; ;
+    padding: -24px 20px;
+    margin: 20px;
+  }
+  .text3{
+    font-size:large;
+    font-weight: bold;
+    text-align: center;
+}
+.sub-text3
+{
+    font-size: medium;
+    text-align: center;
+}
+.customer img
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.pipeline
+{
+    background-color:white;
+    width: 250px;
+    border-bottom: 2px solid grey; ;
+    padding: -24px 20px;
+    margin: 20px;
+  }
+  .text4{
+    font-size:large;
+    font-weight: bold;
+    text-align: center;
+}
+.sub-text4
+{
+    font-size: medium;
+    text-align: center;
+}
+.pipeline img
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.team
+{
+    background-color:white;
+    width: 250px;
+    border-bottom: 2px solid grey; ;
+    padding: -24px 20px;
+    margin: 20px;
+}
+.text5{
+    font-size:large;
+    font-weight: bold;
+    text-align: center;
+}
+.sub-text5
+{
+    font-size: medium;
+    text-align: center;
+}
+.team img
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.quality
+{
+    background-color:white;
+    width: 250px;
+    border-bottom: 2px solid grey; ;
+    padding: -24px 20px;
+    margin: 20px;
+}
+.text6{
+    font-size:large;
+    font-weight: bold;
+    text-align: center;
+}
+.sub-text6
+{
+    font-size: medium;
+    text-align: center;
+}
+.quality img
+{
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
